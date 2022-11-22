@@ -1,2 +1,2 @@
-# bps_html_class
-materials for HTML class
+# HTML Class
+In this tutorial, wwe will see about background colors and font colors. Before doing that kindly refer this [site](https://www.tutorialspoint.com/How-to-set-font-color-in-HTML) for knowing about colors available and their rgb value. Most of the time the color present ahead the __rgb__ command. 
